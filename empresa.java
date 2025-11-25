@@ -3,5 +3,6 @@ public class empresa {
         System.out.println("Hola TecDigrado " );
         System.out.println("Pablo Martinez Garcia");
         System.out.println("Ramírez Galvan Hector (✆_✆)");
+        System.out.println("González Azuzrz Arturo Leonardo");
     }
 }
