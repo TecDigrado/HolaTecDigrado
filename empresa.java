@@ -5,6 +5,6 @@ public class empresa {
         System.out.println("Ramírez Galvan Hector (✆_✆)");
         System.out.println("González Azuzrz Arturo Leonardo");
         System.out.println("Beltran Mendoza Emiliano");
-       
+        System.out.println("Martínez Ortega Uriel Alejandro");
     }
 }
